@@ -16,7 +16,11 @@ I må meget gerne installere den inden vi mødes! Og vær opmærksom på hvad i 
 * [Package Manager Console (Visual Studio) Tools for EF Core](https://docs.microsoft.com/da-dk/ef/core/miscellaneous/cli/powershell)
 
 ## Repositories
-
 <img src="https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/Repository.png" width="400px" />
+
+
+## Query Related Data
+<img src="https://github.com/keacore/04_Entity_Framework/blob/master/Materials/data-model-diagram.png" width="400px" />
+
 
 
