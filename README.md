@@ -11,6 +11,6 @@ I må meget gerne installere den inden vi mødes! Og vær opmærksom på hvad i 
 
 ## Repositories
 
-![Repositories](https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/Repository.png)
+<img src="https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/Repository.png" width="300px" />
 
 
