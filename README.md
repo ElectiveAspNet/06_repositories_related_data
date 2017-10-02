@@ -20,7 +20,7 @@ I må meget gerne installere den inden vi mødes! Og vær opmærksom på hvad i 
 
 
 ## Query Related Data
-<img src="https://github.com/keacore/04_Entity_Framework/blob/master/Materials/data-model-diagram.png" width="400px" />
+<img src="https://github.com/keacore/04_Entity_Framework/blob/master/Materials/data-model-diagram.png" width="600px" />
 
 
 
