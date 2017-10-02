@@ -9,7 +9,10 @@ Vi har heller ikke brug for alt det som VS2017 tilbyder. Installer derfor kun as
 
 I må meget gerne installere den inden vi mødes! Og vær opmærksom på hvad i siger ja til at installere. Det er potentielt en meget stort program!  
 
-## NuGet Package Manager
+## EF
+### 
+[Connectionstrings](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings)
+### NuGet Package Manager
 * [Package Manager Console (Visual Studio) Tools for EF Core](https://docs.microsoft.com/da-dk/ef/core/miscellaneous/cli/powershell)
 
 ## Repositories
