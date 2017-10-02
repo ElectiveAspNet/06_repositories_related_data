@@ -11,7 +11,7 @@ I må meget gerne installere den inden vi mødes! Og vær opmærksom på hvad i 
 
 ## EF
 ### 
-[Connectionstrings](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings)
+* [Connectionstrings](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings)
 ### NuGet Package Manager
 * [Package Manager Console (Visual Studio) Tools for EF Core](https://docs.microsoft.com/da-dk/ef/core/miscellaneous/cli/powershell)
 
