@@ -4,6 +4,8 @@ Agenda dag 6 d. 02-10-2017
 ## Webshop kode fra i dag
 * [Webshop](https://github.com/ElectiveAspNet/webshop)
 
+* [Introduction to Dependency Injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
+
 ## Visual Studio 2017
 Vi skal fra nu af arbejde med Visual Studio 2017 (altså den store version).
 Til det vi skal er det fint med Visual Studio Community 2017. Den er gratis at bruge og kan hentes [her](https://www.visualstudio.com/downloads/)    
